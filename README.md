@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hmasid
 - 👀 I’m interested in Game Development 
-- 🌱 I’m currently learning Puthon
+- 🌱 I’m currently learning Python, unreal engine
 - 💞️ I’m looking to collaborate on Game 
 - 📫 How to reach me hmasid@gmail.com
 
